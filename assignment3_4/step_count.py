@@ -19,7 +19,7 @@ def main():
 
     for i in range(days):
         step_goal = int(input(f"What is your step goal for the day {i+1}? \n"))
-        print(f"Enter the journeys you walked on the day {i+1}. Enter a negative number when you have entered all the journeys. \n")
+        print(f"Enter the journeys you walked on the day {i+1}. Enter a negative number when you have entered all the journeys. ")
 
         total_steps = count_steps(i+1, stride_length)
 

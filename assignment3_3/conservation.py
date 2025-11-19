@@ -28,7 +28,7 @@ def main():
         if classification == "ENDANGERED":
             endangered += 1
 
-        print(f"The species {species} is classified as {classification}. \n")
+        print(f"The species {species} is classified as {classification}.\n")
     print(f"There were {critically_endangered} critically endangered and {endangered} endangered species.")
 
 main()
