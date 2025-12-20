@@ -1,0 +1,11 @@
+Company,base fee of taxi,base fee of minibus,e/km,e/min
+01 Taxi,4.50,7.20,0.99,1.05
+Ketonen,4.80,7.80,1.05,1.22
+GoGoTaxi,3.50,5.80,1.00,1.25
+MaxiTaxi,-,3.50,1.20,0.99
+Quicktaxi,6.99,7.99,0.99,0.99
+Korhonen,6.50,7.90,1.25,0.99
+GreenTaxi,5.50,8.70,0.97,1.00
+EletricTaxi,6.50,-,0.95,0.99
+EmptyCab,4.00,-
+SafeWay,4.99,6.90,1.20,1.25

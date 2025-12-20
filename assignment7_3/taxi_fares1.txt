@@ -1,0 +1,8 @@
+Company,base fee of taxi,base fee of minibus,e/km,e/min
+CityTaxi,2.90,5.90,1.60,1.10
+01 Taxi,4.50,7.12,1.20,1.35
+Ketonen,5.00,6.80,1.05,1.25
+GoGoTaxi,3.50,4.80,1.80,1.30
+SafeWay,6.99,8.99,0.99,0.99
+Quicktaxi,4.99,5.90,1.20,1.35
+GreenTaxi,6.50,8.50,0.98,1.10
