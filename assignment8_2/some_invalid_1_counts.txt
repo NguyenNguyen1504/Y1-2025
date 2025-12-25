@@ -1,0 +1,5 @@
+melitaea diamina,Q
+cygnus cygnus,3
+sorex isodon,x
+caryocolum petryi,0
+cardamine parviflora,0

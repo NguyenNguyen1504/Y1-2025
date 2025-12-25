@@ -1,0 +1,5 @@
+ulmus glabra,q
+tringa erythropus,?
+falco subbuteo,J
+regulus ignicapilla,P
+asarum europaeum,K

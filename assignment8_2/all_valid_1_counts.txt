@@ -1,0 +1,5 @@
+cinna latifolia,3
+viola collina,4
+osmoderma barnabita (o. eremita),9
+mustela lutreola,3
+bufo bufo,2

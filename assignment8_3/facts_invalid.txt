@@ -1,0 +1,9 @@
+Is an element on the periodic table.,argon,graphite,quartz,helium,brass,bismuth,bronze,neon,platinum,tin,1 4 6 8 9 10
+Is an African language.,swahili,zulu,navajo,amharic,tagalog,xhosa,yoruba,maori,bemba,hausa,1 2 4 6 7 9 10
+Has hosted the Summer Olympics.,Paris,Athens,Melbourne,Rome,Amsterdam,Tokyo,Madrid,Rio de Janeiro,Chicago,Beijing,1 2 3 4 5 6 8 10
+Is a Roman numeral.,X,M,A,D,L,K,V,C,Y,Z,1 2 4 5 7 8
+Is a Greek god.,Apollo,Horus,Zeus,Odin, 1 3
+Is a current (2025) member of the European Union.,Norway,Switzerland,Poland,Hungary,Serbia,Spain,Iceland,Ireland,Bulgaria,Ukraine,3 4 6 8 9
+Is a known dwarf planet.,Mars,Venus,Eris,Ceres,Pluto,Haumea,Europa,Charon,Mercury,Makemake,3 4 5 6 10
+Is a prime number.,1,2,3,9,19,27,53,71,87,93,2 3 5 7 8 
+Has a red, white, and blue flag.,Jamaica,Sri Lanka,Mozambique,Malawi,Zambia,Japan,Cuba,Argentina,Cyprus,Guyana,7

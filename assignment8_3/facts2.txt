@@ -1,0 +1,7 @@
+It is believed to have gone extinct sometime in the last 100 years.,caspian tiger,java rhinoceros,tasmanian tiger,lesser bilby,baiji,snow leopard,javan tiger,siberian tiger,african bush elephant,tasmanian devil,1 3 4 5 7
+Is British.,Richard Branson,Florence Nightingale,Stephen Hawking,Robert Baden-Powell,Lee Harvey Oswald,John Calvin,Thomas Hobbes,JRR Tolkien,Walt Whitman,Charles Darwin,1 2 3 4 7 8 10
+Happened in 1917.,Denmark sold the Virgin Islands to the United States,Tove Jansson was born,Finland gained independence,World War 1 began,The Great Atlanta Fire,A.I. Virtanen won the Nobel Prize,John F. Kennedy was born,TV was invented,The Russian Revolution,Picasso was born,1 3 5 7 9
+Is poisonous.,belladonna,ficus tree,daisy,wax flower,geranium,lily of the valley,scottish laburnum,lilac,common bracken,fuchsia,1 6 7 9
+Is an animal in the Chinese zodiac.,snake,sheep,cat,monkey,tiger,elephant,cricket,rat,antelope,panda,1 2 4 5 8
+Is a city in France.,Geneve,Saguenay,Nice,Toulouse,Montpellier,Charleroi,Liège,Nantes,London,Bilbao,3 4 5 8
+Is a capital city of a country.,Sydney,Minsk,Bratislava,Praha,Milano,Casablanca,Johannesburg,São Paulo,Toronto,Shanghai,2 3 4
